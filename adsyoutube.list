@@ -1,1 +1,12 @@
-
+#------------------------------------[Information]--------------------------------------
+#
+# AdsYouTube - Youtube List
+#-------------------------------------[Important]---------------------------------------
+#
+# Attention
+# Google is always changing their ad serving domains.
+#------------------------------------[Filters list]-------------------------------------
+0.0.0.0 r1---sn-i5heen7s.googlevideo.com
+0.0.0.0 r5---sn-i5heen7s.googlevideo.com
+0.0.0.0 r5---sn-i5h7lned.googlevideo.com
+0.0.0.0 r1---sn-i5h7lnll.googlevideo.com
